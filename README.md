@@ -1,3 +1,3 @@
 # numpy-pandas-etl
 
-for test only
+Projects - simple ones
